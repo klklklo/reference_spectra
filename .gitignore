@@ -1,1 +1,4 @@
 .idea
+tests
+dist
+reference_spectra.egg-info
